@@ -1,12 +1,15 @@
-//package pl.dstelmaszynski;
-//
+package pl.dstelmaszynski;
+
 //Main method - to launch
-//public class Main {
-//    public static void main(String[] args) {
+public class Main {
+    public static void main(String[] args) {
 //        multiply method
-//        Ex1.multiply(5);
-//
+        Ex1.multiply(5);
+
 //        prime number method
-//        Ex2.primeNumb(4);
-//    }
-//}
+        Ex2.primeNumb(4);
+
+        //sum method
+        Ex3.sum(6,13);
+    }
+}
