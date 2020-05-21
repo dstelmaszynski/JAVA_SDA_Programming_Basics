@@ -13,7 +13,7 @@ public class Ex5 {
                 min = tab1[j];
             }
         }
-        System.out.println("Minimum number: " + min);
+        System.out.println("\nMinimum number: " + min);
         System.out.println("Maximum number" + max);
     }
 }

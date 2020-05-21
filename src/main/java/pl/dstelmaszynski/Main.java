@@ -10,10 +10,12 @@ public class Main {
         Ex2.primeNumb(2);
 
         //sum method
-        Ex3.sum(6,13);
+        Ex3.sum(6, 13);
 
         //array changing method
-//Ex4.array(arrayAfter);
+        int[] arrayBefore = {12, 7, 9};
+        Ex4.array(arrayBefore);
+
 
         //array min and max numbers
         Ex5.minAndMax();
