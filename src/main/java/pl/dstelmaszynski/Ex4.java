@@ -14,12 +14,15 @@ public class Ex4 {
         arrayAfter[0] = tab[2];
         arrayAfter[1] = tab[1];
         arrayAfter[2] = tab[0];
-        for (i = 0; i < 2; i++) ;
-        System.out.println(arrayAfter[i]);
-//      array(arrayAfter);
+        for (i = 0; i < 2; i++) {
+            System.out.println(arrayAfter[i]);
+
+        }
     }
-    //    array(arrayAfter);
+
     public static void main(String[] args) {
+        //poniżej próba wywołania metody, która nie działa.
+//        array(12, 7, 9);
     }
 }
 
