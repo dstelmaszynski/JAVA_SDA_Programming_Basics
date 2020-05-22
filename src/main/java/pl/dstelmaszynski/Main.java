@@ -7,7 +7,7 @@ public class Main {
         Ex1.multiply(5);
 
 //        prime number method
-        Ex2.primeNumb(2);
+        Ex2.primeNumb(3);
 
         //sum method
         Ex3.sum(6, 13);
