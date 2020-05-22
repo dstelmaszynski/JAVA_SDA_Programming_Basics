@@ -19,5 +19,10 @@ public class Main {
 
         //array min and max numbers
         Ex5.minAndMax();
+
+        //array negative numbers method
+        int [] tab1 = {17, -6, 22, -3};
+        Ex6.negativeTable(tab1);
+
     }
 }
